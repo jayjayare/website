@@ -1,0 +1,16 @@
+body {
+    background-color: red;
+}
+
+.AM_container {
+    display: flex;
+    flex-direction: column; /* stack vertically */
+    align-items: center;    /* center both image + text */
+}
+
+
+.AM_Text {
+    text-align: justify;
+    width: 700px;
+
+}
